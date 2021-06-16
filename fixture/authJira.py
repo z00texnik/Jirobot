@@ -22,7 +22,7 @@ def start_message(message):
 @bot.message_handler(commands=['issue']) # попытка по команде issue получить статус задачи
 def issue_key_status(message):
     bot.send_message(message.chat.id, f'Введи номер задачи:')
-    if message.text.lower() == bot1.issue(key=input()):
+    if message.text.lower() == bot1.issue(key=input()): #вот тут у меня по задумке должен быть ввод ключа задачи
         bot.send_message(message.chat.id, 'Статус: ', bot1.get_issue_status())
     else:
         bot.send_message(message.chat.id, 'Задача не найдена')
