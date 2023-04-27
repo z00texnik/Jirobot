@@ -1,4 +1,4 @@
 url = 'https://aptekarunew.atlassian.net/'
 username = 'katren.apteka.ru.jira@gmail.com'
-password = 'ATATT3xFfGF0qTusTe12C00W_0lxecs0k7qPsKj7fOkcCDHYJjn7Nvg2bkUa3pbeqBK9Z1O5zEL475XMmSgi6QrG45mlaXz2By-GzvSJlM829VXw-VdGNsFOTh9_U0iUpFQOz-Ehv40Z77BcgFngljU0k_vPMFZHGr0sDaLqfFwshN4lIZge3BY=9B386F2B'
+password = 'ATATT3xFfGF0i8P_i9GtMhLReZWAWGKzohmpBUKCE_4LEDs8VVADMsCyikbFxtGa08QeQKKTYEUEOYPSiQsQki3Ak1Jpyt5jP-uTbmngxopZnVaHUDlVGfZBg1qSny-MmEYUuaLx79K7e1dYZVho20Ner_m0nRFVTL7ZSqDGbdcnBYIXa5YOpQk=36D97EB4'
 token = '1616090561:AAHO6hhu4sE0jhVuCPb0fD1Rt_FURZYgZSk'
